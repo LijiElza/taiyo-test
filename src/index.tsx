@@ -25,7 +25,7 @@ root.render(
   <React.StrictMode>
     <QueryClientProvider client={queryClient}>
       <Provider store={store}>
-        <Router>
+        <Router basename="/taiyo-test">
           <App />
         </Router>
       </Provider>
