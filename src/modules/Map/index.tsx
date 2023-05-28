@@ -35,7 +35,6 @@ const MapPage = ({ height }: any) => {
 
     fetchData();
   }, []);
-  console.log({ worldData });
 
   const markerIcon = new Icon({
     iconUrl: markerIconPng,

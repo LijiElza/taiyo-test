@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import { Provider } from "react-redux";
 import { configureStore } from "@reduxjs/toolkit";
 import { ToastContainer } from "react-toastify";
-import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 import { QueryClient, QueryClientProvider } from "react-query";
 // relative files
 import App from "./App";
@@ -25,7 +25,7 @@ root.render(
   <React.StrictMode>
     <QueryClientProvider client={queryClient}>
       <Provider store={store}>
-        <Router basename="/taiyo-test">
+        <Router>
           <App />
         </Router>
       </Provider>
