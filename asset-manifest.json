@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https://lijielza.github.io/taiyo-test/static/css/main.6ec519b8.css",
-    "main.js": "/https://lijielza.github.io/taiyo-test/static/js/main.747bee20.js",
-    "static/js/787.a9a1a97d.chunk.js": "/https://lijielza.github.io/taiyo-test/static/js/787.a9a1a97d.chunk.js",
-    "index.html": "/https://lijielza.github.io/taiyo-test/index.html",
-    "main.6ec519b8.css.map": "/https://lijielza.github.io/taiyo-test/static/css/main.6ec519b8.css.map",
-    "main.747bee20.js.map": "/https://lijielza.github.io/taiyo-test/static/js/main.747bee20.js.map",
-    "787.a9a1a97d.chunk.js.map": "/https://lijielza.github.io/taiyo-test/static/js/787.a9a1a97d.chunk.js.map"
+    "main.css": "/taiyo-test/static/css/main.6ec519b8.css",
+    "main.js": "/taiyo-test/static/js/main.baaaba1a.js",
+    "static/js/787.a9a1a97d.chunk.js": "/taiyo-test/static/js/787.a9a1a97d.chunk.js",
+    "index.html": "/taiyo-test/index.html",
+    "main.6ec519b8.css.map": "/taiyo-test/static/css/main.6ec519b8.css.map",
+    "main.baaaba1a.js.map": "/taiyo-test/static/js/main.baaaba1a.js.map",
+    "787.a9a1a97d.chunk.js.map": "/taiyo-test/static/js/787.a9a1a97d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ec519b8.css",
-    "static/js/main.747bee20.js"
+    "static/js/main.baaaba1a.js"
   ]
 }
